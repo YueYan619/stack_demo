@@ -5,12 +5,17 @@
 //  Created by 岳言 on 16/3/11.
 //  Copyright © 2016年 岳言. All rights reserved.
 //
-
+/**
+ *  second edit ----------------------------------
+ */
 #include <stdio.h>
 #include <stdlib.h>
 
 #define DataType int
 #define MAXSIZE 1024
+
+
+
 
 typedef struct student
 {
